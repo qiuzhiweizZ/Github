@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//摄像机跟随
 public class CCWalk : MonoBehaviour {
 
 	public Vector3 GoalPosition;
